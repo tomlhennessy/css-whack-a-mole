@@ -1,5 +1,21 @@
 /* Your code here */
+.wgs {
+  height: 482;
+  position: relative;
+  width: 640;
+}
 
+.wgs__mole-head {
+  height: 356;
+  position: absolute;
+  width: 376;
+}
+
+.wgs__dirt-pile {
+  height: 220;
+  position: absolute;
+  width: 640;
+}
 
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
